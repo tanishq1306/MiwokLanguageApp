@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Layout for a single list item -->
-<RelativeLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="@dimen/list_item_height"
+    android:layout_height="wrap_content"
     android:background="@color/tan_background"
     android:minHeight="@dimen/list_item_height">
 
@@ -53,4 +53,4 @@
             android:layout_marginRight="16dp"
             android:src="@drawable/ic_play_arrow" />
     </RelativeLayout>
-</RelativeLayout>
+</LinearLayout>
