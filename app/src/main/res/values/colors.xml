@@ -7,7 +7,7 @@
     <color name="primary_dark_color">#5E5B5B</color>
 
     <!-- Background color for app -->
-    <color name="tan_background">#F1F0EA</color>
+    <color name="tan_background">#FFFACF</color>
 
     <!-- Background color for the numbers category -->
     <color name="category_numbers">#FD8E09</color>
@@ -21,6 +21,7 @@
     <!-- Background color for the phrases category -->
     <color name="category_phrases">#16AFCA</color>
 
+    <!-- Extra's-->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
