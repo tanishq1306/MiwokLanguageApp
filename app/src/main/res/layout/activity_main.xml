@@ -15,6 +15,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/tabs"
             app:tabMode="fixed"
+            app:tabBackground="@color/tan_background"
             app:tabMaxWidth="0dp"
             app:tabGravity="fill"/>
     </com.google.android.material.appbar.AppBarLayout>

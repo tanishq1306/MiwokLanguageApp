@@ -18,18 +18,6 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".NumbersActivity"
-            android:label="@string/category_numbers" />
-        <activity
-            android:name=".FamilyActivity"
-            android:label="@string/category_family" />
-        <activity
-            android:name=".ColorsActivity"
-            android:label="@string/category_colors" />
-        <activity
-            android:name=".PhrasesActivity"
-            android:label="@string/category_phrases" />
     </application>
 
 </manifest>
